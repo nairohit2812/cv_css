@@ -1,2 +1,3 @@
 # cv_css
-CV built using html &amp; css
+
+This repository contains files related to the cv website built using HTML & CSS.
