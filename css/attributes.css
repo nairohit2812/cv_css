@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif, serif;
+    background-color: #96CEB4;
+}
+
+div{
+    width: 50%;
+    margin: 35px auto 50px auto;    
+    text-align: left;
+    line-height: 2;
+}
+
+a{
+    color: #980F5A;
+    padding-left: 30px;
+    text-decoration: none;
+}
+
+.colorhunt{
+    font-size: 25px;
+    padding-left: 0;
+    color: #980F5A;
+}
+
+p{
+    font-size: 25px;
+    color: #980F5A;
+}
+

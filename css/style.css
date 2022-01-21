@@ -1,0 +1,113 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #96CEB4;
+}
+
+.top-container{
+    background-color: #92A9BD;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+    background-color: #FFEFEF;
+    position: relative;
+    padding-bottom: 50px;
+}
+
+.bottom-container{
+    background-color: #D3DEDC;
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 60px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 350px;
+    top: 350px;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 500%;
+    color: #4C0027;
+}
+
+h2{
+    margin: 20px auto 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #4C0027;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #980F5A;
+}
+
+.footer-link{
+    color: #980F5A;
+    padding-left: 30px;
+    text-decoration: none;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 25px auto 50px auto;    
+    text-align: left;
+    line-height: 2;
+}
+
+.web-dev{
+    float: left;
+    margin-right: 30px;
+}
+
+.blockchain-dev{
+    float: left;
+    margin-right: 30px;
+}
+
+hr{
+    border-style: dotted none none; 
+    width: 5%;
+    border-color: gray;
+    border-width: 7.5px;
+}      
+
+.btn{
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #6D8299;
+    border: none;
+    border-radius: 15px;
+    margin: 10px auto auto auto;
+}
+
+.btn:hover {background-color: #4C0027}
+
+.copyright{
+    color: #980F5A;
+}
+
+
+
+    /**************************PRACTICE CSS HERE *************************************/
+
