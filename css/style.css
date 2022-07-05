@@ -3,12 +3,14 @@ body{
     text-align: center;
     font-family: 'Merriweather', serif;
     background-color: #96CEB4;
+    width: fit-content;
 }
 
 .top-container{
     background-color: #92A9BD;
     position: relative;
     padding-top: 100px;
+    
 }
 
 .middle-container{
@@ -28,6 +30,10 @@ body{
     position: absolute;
     right: 300px;
     top: 60px;
+}
+
+.top-mountain{
+    position: relative;
 }
 
 .bottom-cloud{
